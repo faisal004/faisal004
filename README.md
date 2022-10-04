@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faisal Husain</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Girl in a jacket" width="400" height="300">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="boy in a jacket" width="400" height="300">
 
 - 🔭 I’m currently working on **Blockchain**
 
@@ -25,4 +25,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisal004&" alt="faisal004" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisal004&theme=dark" alt="faisal004" /></p>
