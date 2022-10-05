@@ -26,3 +26,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisal004&theme=dark" alt="faisal004" /></p>
+[![Faisal's github activity graph](https://activity-graph.herokuapp.com/graph?username=faisal004)](https://github.com/faisal004/github-readme-activity-graph)
