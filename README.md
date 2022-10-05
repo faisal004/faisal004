@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faisal Husain</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="boy in a jacket" width="400" height="300">
+<img align="right" src="https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif" alt="boy in a jacket" width="400" height="300">
 
 - 🔭 I’m currently working on **Blockchain**
 
