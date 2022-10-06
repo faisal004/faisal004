@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faisal Husain</h1>
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <h3 align="center">A passionate Blockchain developer from India</h3>
 <img align="right" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="boy in a jacket" width="400" height="300">
 
