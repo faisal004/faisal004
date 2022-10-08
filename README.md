@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **WEB3**
 
-
 - 📫 How to reach me **faisalhusain1320@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
