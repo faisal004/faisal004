@@ -2,7 +2,7 @@
 
 
 <h3 align="center">A passionate Blockchain developer from India</h3>
-<img align="right" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="boy in a jacket" width="400" height="300">
+<img align="right" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="boy in a jacket" width="400" height="300">
 
 - 🔭 I’m currently working on **Blockchain**
 
