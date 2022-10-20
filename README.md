@@ -4,7 +4,7 @@
 <h3 align="center"> Blockchain developer from India</h3>
 <img align="right" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="boy in a jacket" width="400" height="300">
 
-- 🔭 I’m currently working on **Blockchain**
+
 
 - 🌱 I’m currently learning **NEXTJS AND Solidity**
 
