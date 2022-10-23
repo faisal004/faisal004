@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faisal Husain</h1>
+<h1 align="center">Hi  👋, I'm Faisal Husain</h1>
 
 
 <h3 align="center"> Blockchain developer from India</h3>
