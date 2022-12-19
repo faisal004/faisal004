@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Faisal Husain</h1>
 
 
-<h3 align="center"> Blockchain developer from India</h3>
+<h3 align="center"> Developer from India</h3>
 <img align="right" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="boy in a jacket" width="400" height="300">
 
 
 
-- 🌱 I’m currently learning **NEXTJS AND Solidity**
+- 🌱 I’m currently learning ** Solidity And Rust**
 
 - 💬 Ask me about **WEB3**
 
