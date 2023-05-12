@@ -6,9 +6,9 @@
 
 
 
-- 🌱 I’m currently learning ** Solidity And Rust**
+- 🌱 I’m currently learning **NextJS and Solidity**
 
-- 💬 Ask me about **WEB3**
+
 
 - 📫 How to reach me **faisalhusain1320@gmail.com**
 
