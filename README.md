@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm Faisal Husain,Full Stack Developer from India</h3>
+<h3 align="left">Hi 👋, I'm Faisal,Full Stack Developer from India</h3>
 
 - 🧰 I build with : NextJS, ReactJS, TailwindCss, Javascript and Typescript.
 
