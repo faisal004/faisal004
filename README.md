@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm Faisal, Full Stack Developer from India</h3>
+<h3 align="left">Hi 👋, I'm Faisal</h3>
 
 - ⚡ Feel free to checkout my [portfolio](https://faisal-husain.vercel.app/) website!
 
